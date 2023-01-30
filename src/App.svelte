@@ -1,24 +1,13 @@
 <script>
   import Counter from "./lib/Counter.svelte";
-
+  
 </script>
 
 <main>
   <div class="card">
-    <Counter></Counter>
+    <Counter/>
   </div>
-
-  
- 
   <h1>Vite + Svelte</h1>
-
-  <!-- !Warning: it works, don't touch -->
-  <!-- *Important: This is very important -->
-  <!-- ?Question: Why is this working -->
-  <!-- Todo: Make Add Cart Function -->
-  <!-- ! -->
-
-
   <p>
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>
